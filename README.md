@@ -8,3 +8,5 @@ https://quantumjazz.github.io/principles-of-management/Теории-и-моде�
 
 https://quantumjazz.github.io/principles-of-management/Вземане-на-решения-базирани-на-данни/slides#/title-slide
 
+https://quantumjazz.github.io/principles-of-management/Стратегическо-взаимодействие/slides#/title-slide
+
