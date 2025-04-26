@@ -10,3 +10,5 @@ https://quantumjazz.github.io/principles-of-management/Вземане-на-ре�
 
 https://quantumjazz.github.io/principles-of-management/Стратегическо-взаимодействие/slides#/title-slide
 
+https://quantumjazz.github.io/principles-of-management/Приложения-на-теорията-на-игрите-в-мениджмънта/slides#/title-slide
+
